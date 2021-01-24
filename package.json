@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "16.13.1",
     "react-native": "0.63.4",
-    "react-native-svg": "github:react-native-svg/react-native-svg#4375ee676eb862249814f98a2debb4ac355156b6"
+    "react-native-svg": "github:react-native-svg/react-native-svg#279c3fcf84540ba12b18dd2056e3189af75c29b4"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
